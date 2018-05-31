@@ -1,0 +1,7 @@
+C:\Users\Chaos\source\repos\LuaObf\Obf\obj\Debug\Obf.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\LuaObf\Obf\obj\Debug\Obf.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\LuaObf\Obf\bin\Debug\Obf.exe.config
+C:\Users\Chaos\source\repos\LuaObf\Obf\bin\Debug\Obf.exe
+C:\Users\Chaos\source\repos\LuaObf\Obf\bin\Debug\Obf.pdb
+C:\Users\Chaos\source\repos\LuaObf\Obf\obj\Debug\Obf.exe
+C:\Users\Chaos\source\repos\LuaObf\Obf\obj\Debug\Obf.pdb
