@@ -15,7 +15,8 @@ namespace Obf
         public Random random = new Random();
         public string GetRandomAlphaNumeric(int ammount)
         {
-            var chars = "Il1Ill1IlllIll11Illl1IllllIlll1IllllIll111Illl111IlllIl1Ill1IlllIll11Illl1IllllIlll1IllllIll111Illl111IlllIl1Ill1IlllIll11Illl1IllllIlll1IllllIll111Illl111IlllIl1Ill1IlllIll11Illl1IllllIlll1IllllIll111Illl111Illl";
+            // Lua functions can't start with numbers & I'm too lazy to add a check.
+            var chars = "abcdefghijklmnopqrstuvwxyz" + "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
             return new string(chars.Select(c => chars[random.Next(chars.Length)]).Take(ammount).ToArray());
         }
 
